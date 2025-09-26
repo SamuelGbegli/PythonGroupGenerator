@@ -1,7 +1,7 @@
 # PythonGroupGenerator
 This is a Python script designed for users to generate a set of unique placeholders for a round-robin tournament involving multiple groups. This may be expanded to generate a match schedule based on user input
 
-**Important**: the script may output items in the format of 1-1, 1-2, etc. and when saved as a CSV file, may be rendered as dates when viewed in an application like Excel
+**Important**: the script may output items in the format of 1-1, 1-2, etc. and when saved as a CSV file, may be rendered as dates when viewed in an application like Excel.
 
 ## How to use the script
 1. When running the script, you will be asked to input the number of competitors and groups you want to create. Input is valid when:
